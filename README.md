@@ -1,1 +1,1 @@
-### TRENDLMC
+### <b> TRENDLMC study
