@@ -29,5 +29,4 @@
 ### AWS 주소 
 [<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendlmc&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,F7A7B7,EDDB83&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendlmc&layout=compact)
