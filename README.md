@@ -3,6 +3,8 @@
 ### AWS 주소 
 [<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)
 
+![TREDNLMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRENDLMC&show_icons=true&theme=gruvbox)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendlmc&hide=html&layout=compact)
 
 
