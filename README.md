@@ -78,24 +78,24 @@
             <th rowspan="5">(산대특)AWS 활용 (java)풀스택개발(큐레이팅커머스)양성_육성과정 수료(국비지원)</th>
             <th>07.31~08.17</th>
             <th>(Java,JavaScript)Springboot와 React를 사용하여Cloudetype(DB)를 활용하여<br>
-                CLI프로젝트 웹사이트제작 제작 Project(GaYaHohel)</th>
-            <th rowspan="5">안산 이젠 컴퓨터 아카데미</th>
+                CLI프로젝트 웹사이트제작 제작 Project<a href="https://github.com/TRENDLMC/Gaya_Hotel_pro">(GaYaHotel</a>)</th>
+            <th rowspan="5">안산이젠 컴퓨터 아카데미 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         </tr>
         <tr>
             <th>07.10~07.28</th>
             <th>(Java,JavaScript)Spring과 JSP와 MariaDB(RDS)를 활용하여<br>
-                커뮤니티 웹사이트 제작 Project(NEVER)</th>
+                커뮤니티 웹사이트 제작 Project<a href="https://github.com/TRENDLMC/SpringProject">(NEVER)</a></th>
         </tr>
         <tr>
             <th>06.11~06.25</th>
             <th>(Java,JavaScript)JSP와 Servite,MariaDB를 활용하여<br>
-                웹사이트 제작 Project(Lecturer in)</th>
+                웹사이트 제작 Project<a href="https://github.com/TRENDLMC/Servlet_JSP_WebSite">(Lecturer in)</a></th>
         </tr>
         <tr>
             <th>05.22~05.29</th>
             <th>(JAVA)CLI및 JDBC를활용하여 자바와 ORACLE DB연동<br>
                 호텔예약 프로그램작성<br>
-                Project(Hotel LIfe)</th>
+                Project<a href="https://github.com/TRENDLMC/HotelLife">(Hotel LIfe)</a></th>
         </tr>
     </table>
 
