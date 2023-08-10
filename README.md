@@ -67,4 +67,40 @@
 
 
 ## History
-![image](https://github.com/TRENDLMC/TRENDLMC/assets/130523481/2ebe3a88-7697-47e6-a976-2d1cdfe1dba8)
+ <table style="border: 1px solid;">
+        <tr  >
+            <th>기간</th>
+            <th colspan="3">교육</th>
+            <th>장소</th>
+        </tr>
+        <tr>
+            <th rowspan="5">23.04~23.08</th>
+            <th rowspan="5">(산대특)AWS 활용 (java)풀스택개발(큐레이팅커머스)양성_육성과정 수료(국비지원)</th>
+            <th>07.31~08.17</th>
+            <th>(Java,JavaScript)Springboot와 React를 사용하여Cloudetype(DB)를 활용하여<br>
+                CLI프로젝트 웹사이트제작 제작 Project(GaYaHohel)</th>
+            <th rowspan="5">안산 이젠 컴퓨터 아카데미</th>
+        </tr>
+        <tr>
+            <th>07.10~07.28</th>
+            <th>(Java,JavaScript)Spring과 JSP와 MariaDB(RDS)를 활용하여<br>
+                커뮤니티 웹사이트 제작 Project(NEVER)</th>
+        </tr>
+        <tr>
+            <th>06.11~06.25</th>
+            <th>(Java,JavaScript)JSP와 Servite,MariaDB를 활용하여<br>
+                웹사이트 제작 Project(Lecturer in)</th>
+        </tr>
+        <tr>
+            <th>05.22~05.29</th>
+            <th>(JAVA)CLI및 JDBC를활용하여 자바와 ORACLE DB연동<br>
+                호텔예약 프로그램작성<br>
+                Project(Hotel LIfe)</th>
+        </tr>
+    </table>
+
+
+
+
+
+
