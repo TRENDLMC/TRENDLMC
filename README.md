@@ -64,3 +64,7 @@
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp&logoColor=fff"/>
 </div>
+
+
+## History
+![image](https://github.com/TRENDLMC/TRENDLMC/assets/130523481/2ebe3a88-7697-47e6-a976-2d1cdfe1dba8)
