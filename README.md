@@ -77,7 +77,7 @@
             <th>07.31~08.17</th>
             <th>(Java,JavaScript)Springboot와 React를 사용하여Cloudetype(DB)를 활용하여<br>
                 CLI프로젝트 웹사이트제작 제작 Project<a href="https://github.com/TRENDLMC/Gaya_Hotel_pro">(GaYaHotel</a>)</th>
-            <th rowspan="5">안산이젠 컴퓨터 아카데미 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th rowspan="5">이젠 컴퓨터 아카데미 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         </tr>
         <tr>
             <th>07.10~07.28</th>
