@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)
 
 ### My_Cloudtype
-<a href="https://github.com/TRENDLMC">
+<a href="https://web-gaya-front-ac2nll63bqd8.sel3.cloudtype.app/">
   <img src="https://img.shields.io/badge/CloudType-2196F3?style=for-the-badge&logo=&logoColor=white" alt="Myeongcheol Im" width="80" height="30">
 </a>
 
