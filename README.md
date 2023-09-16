@@ -23,7 +23,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendlmc&hide=html&layout=compact)
-![image](https://github.com/TRENDLMC/TRENDLMC/assets/130523481/90256c59-4f09-48de-85c1-1ab0c089a7f5)
+![image](https://github.com/TRENDLMC/TRENDLMC/assets/130523481/dae16283-7401-4c01-9210-6f33c57361ac)
+
 
 
 
