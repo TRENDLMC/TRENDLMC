@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=TrendLMCGithub&fontSize=90)
 
 ###  My_AWS
-[<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)
 
 ### My_Cloudtype
 <a href="https://web-gaya-front-ac2nll63bqd8.sel3.cloudtype.app/">
